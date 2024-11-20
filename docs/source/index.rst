@@ -11,11 +11,12 @@ Check out the :doc:`usage` section for further information, including how to
 
 .. note::
 
-   This project is under active development.
+    This project is under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
+    usage
+    api
